@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>
+        Valorant Website
+    </title>
+    <link href="/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="bg-dark text-white p-2">
+        <span class="navbar-brand ml-2">
+            <a asp-action="Index" asp-controller="Home">
+                <img src="Images/valorant_logo.jpg" alt="" class="no-decoration" width="50" height="50" />
+            </a>
+        </span>
+        <span style="margin-left:3rem"><a class="btn btn-primary" asp-action="AgentList" asp-controller="Agent">Agents</a></span>
+        <span style="margin-left:3rem"><a class="btn btn-primary" asp-action="Weapon" asp-controller="Weapon">Weapon</a></span>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="roles" class="col-3">
+            <!--<vc:agent-navigation />--->
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

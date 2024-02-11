@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ValorantWebsite
+build_property.RootNamespace = ValorantWebsite
+build_property.ProjectDir = C:\Users\Eric\source\repos\CIS 174 Advanced C# assignments\Final\ValorantSln\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Eric\source\repos\CIS 174 Advanced C# assignments\Final\ValorantSln
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Agent/AgentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRcQWdlbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Agent/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Shared/AgentSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFnZW50U3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Shared/Components/AgentNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWdlbnROYXZpZ2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Shared/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvbk1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Shared/WeaponSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFdlYXBvblN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Weapon/WeaponList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhcG9uXFdlYXBvbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Weapon/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhcG9uXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eric/source/repos/CIS 174 Advanced C\# assignments/Final/ValorantSln/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1wy5khywn5
